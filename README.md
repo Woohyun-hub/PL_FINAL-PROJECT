@@ -122,6 +122,7 @@
 1. pygame 라이브러리 설치
 ```bash
 
+
 2. 게임 실행
 
 python main.py
