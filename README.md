@@ -10,14 +10,15 @@
 ---
 
 ## 🕹️ 게임 플레이 화면
+<img width="592" height="831" alt="gameplay1" src="https://github.com/user-attachments/assets/20be1788-5807-42e4-85ed-287c4be0126f" />
 
-![Gameplay](images/gameplay.png)
+
 
 ---
 
 ## 💀 게임 오버 화면
+<img width="906" height="833" alt="game_over" src="https://github.com/user-attachments/assets/7f04d756-01db-4e4f-9a72-333cd63d8ab8" />
 
-![Game Over](images/game_over.png)
 
 ---
 
